@@ -1,0 +1,1 @@
+nmake TOP=%CD% %*
